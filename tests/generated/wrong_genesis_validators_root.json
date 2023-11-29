@@ -4,7 +4,7 @@
   "steps": [
     {
       "should_succeed": false,
-      "contains_slashable_data": false,
+      "allow_partial_import": false,
       "interchange": {
         "metadata": {
           "interchange_format_version": "5",
